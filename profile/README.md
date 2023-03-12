@@ -1,4 +1,4 @@
-<img height="50%" width="50%" src="https://raw.githubusercontent.com/nitron-gaming/.github/main/images/nitron-logo.png" />
+<img height="50%" width="50%" src="https://raw.githubusercontent.com/nitron-technologies/.github/blob/main/images/nitron-logo.png" />
 
 # Nitron
 
@@ -11,20 +11,20 @@
 <table>
 <tr>
 <td>
-<img src="https://raw.githubusercontent.com/nitron-gaming/.github/main/images/zac-waite.png" />
+<img src="https://raw.githubusercontent.com/nitron-technologies/.github/blob/main/images/zac-waite.png" />
 <p>Zac Waite</p>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/nitron-gaming/.github/main/images/dhruv-bhatia.png" />
+<img src="https://raw.githubusercontent.com/nitron-technologies/.github/blob/main/images/dhruv-bhatia.png" />
 <p>Dhruv Bhatia</p>
 </td>
 </tr>
 <td>
-<img src="https://raw.githubusercontent.com/nitron-gaming/.github/main/images/hargun-mujral.png" />
+<img src="https://raw.githubusercontent.com/nitron-technologies/.github/blob/main/images/hargun-mujral.png" />
 <p>Hargun Mujral</p>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/nitron-gaming/.github/main/images/jordan-bosco.png" />
+<img src="https://raw.githubusercontent.com/nitron-technologies/.github/blob/main/images/jordan-bosco.png" />
 <p>Jordan Bosco</p>
 </td>
 </tr>
