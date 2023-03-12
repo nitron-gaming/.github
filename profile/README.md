@@ -10,20 +10,20 @@
 
 <table>
 <tr>
-<td>
+<td width="50%">
 <img src="https://raw.githubusercontent.com/nitron-technologies/.github/main/images/zac-waite.jpg" />
 <p>Zac Waite</p>
 </td>
-<td>
+<td width="50%">
 <img src="https://raw.githubusercontent.com/nitron-technologies/.github/main/images/dhruv-bhatia.jpg" />
 <p>Dhruv Bhatia</p>
 </td>
 </tr>
-<td>
+<td width="50%">
 <img src="https://raw.githubusercontent.com/nitron-technologies/.github/main/images/hargun-mujral.jpg" />
 <p>Hargun Mujral</p>
 </td>
-<td>
+<td width="50%">
 <img src="https://raw.githubusercontent.com/nitron-technologies/.github/main/images/jordan-bosco.jpg" />
 <p>Jordan Bosco</p>
 </td>
