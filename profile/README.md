@@ -1,6 +1,8 @@
-# Nitron
+# **Nitron**
 
 <img align="left" width="40%" src="https://raw.githubusercontent.com/nitron-technologies/.github/main/images/nitron-logo.png" />
+
+## Unlocking the Authenticity of Emotion to bring Virtual Worlds to life
 
 ### *A new type of personality engine that focuses not on dialogue and NLP - but instead on user behaviour, allowing video game NPCs or personal assistants to feel more human.*
 
