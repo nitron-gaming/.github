@@ -10,6 +10,10 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/nitron-technologies/.github/main/images/diagram.png" />
+
+---
+
 ## The Team
 
 <table>
